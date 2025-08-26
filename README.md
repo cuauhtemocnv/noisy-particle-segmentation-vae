@@ -76,6 +76,7 @@ jupyter notebook notebooks/demo.ipynb
 Input vs Ground Truth vs Reconstruction
 
 <p align="center"> <img src="results/reconstructions/example.png" width="750"/> </p>
+<p align="center"> <img src="results/reconstructions/example4.png" width="850"/> </p>
 
 Latent Space (2D PCA projection)
 
