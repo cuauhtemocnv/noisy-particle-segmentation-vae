@@ -36,7 +36,7 @@ It includes tools for dataset generation, model training, latent space visualiza
 ## 🛠 Installation
 Clone the repo and install dependencies:
 ```bash
-git clone https://github.com/YOUR-USERNAME/noisy-particle-segmentation-vae.git
+git clone https://github.com/cuauhtemocnv/noisy-particle-segmentation-vae.git
 cd noisy-particle-segmentation-vae
 pip install -r requirements.txt
 ```
