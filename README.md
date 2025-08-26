@@ -79,9 +79,9 @@ Input vs Ground Truth vs Reconstruction
 
 Latent Space (2D PCA projection)
 
-<p align="center"> <img src="results/latent_space/pca.png" width="400"/> </p>
+<p align="center"> <img src="results/latent_space/pca.png" width="600"/> </p>
 
 Inspired by research in denoising autoencoders and representation learning.
-<p align="center"> <img src="results/latent_space/example2.png" width="400"/> </p>
+<p align="center"> <img src="results/latent_space/example2.png" width="800"/> </p>
 
 Fourier-based noise model adapted from standard image augmentation techniques.
